@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:/news/wp-admin/
+Disallow:/news/wp-include/
+Disallow:/news/wp-content/
+Disallow:/news/
